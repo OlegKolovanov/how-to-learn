@@ -15,6 +15,13 @@
   max-height: 756px;
   /* выше установили ограничения для секции */
 }
+.logo_place_header {
+  background-image: url(../images/logo_place_header.svg);
+  position: absolute;
+  left: 64px;
+  top: 30px;
+  width: 100%;
+}
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
